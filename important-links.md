@@ -17,6 +17,7 @@
 - [High availability](https://en.wikipedia.org/wiki/High_availability)
 - [GitHub Post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 - [Atlassian Incident Handbook](https://www.atlassian.com/incident-management/handbook/postmortems)
+- [CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html)
 
 
 
