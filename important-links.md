@@ -14,6 +14,9 @@
 - [WannaCry randsomware attack](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack)
 - [CloudFormation](https://aws.amazon.com/cloudformation/)
 - [Terraform](https://www.terraform.io/)
+- [High availability](https://en.wikipedia.org/wiki/High_availability)
+- [GitHub Post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
+- [Atlassian Incident Handbook](https://www.atlassian.com/incident-management/handbook/postmortems)
 
 
 
