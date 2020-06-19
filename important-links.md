@@ -17,7 +17,19 @@
 - [High availability](https://en.wikipedia.org/wiki/High_availability)
 - [GitHub Post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
 - [Atlassian Incident Handbook](https://www.atlassian.com/incident-management/handbook/postmortems)
-- [CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html)
+- [AWS Services That Publish CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html)
+- [PagerDuty](https://www.pagerduty.com/)
+- [VictorOps](https://victorops.com/)
+- [Analyzing Log Data with CloudWatch Logs Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
+- [Everything Fails All the Time](https://cacm.acm.org/magazines/2020/2/242334-everything-fails-all-the-time/fulltext)
+- [Principles of Chaos Engineering](http://principlesofchaos.org/)
+- [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
+
+
+
+
+
+
 
 
 
