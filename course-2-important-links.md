@@ -71,6 +71,10 @@
 -   [Terraform Best Practices](https://www.terraform-best-practices.com/)
 
 ### Serverless Computing
+
+-   [Serverless Application Lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
+-   [Servers LOL](https://servers.lol/)
+-   [What is Serverless Architecture? What are its Pros and Cons?](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
 -   [Dashbird.io Calculator](https://dashbird.io/lambda-cost-calculator/)
 -   [AWS Lambda Pricing Model Explained with Examples](https://dashbird.io/blog/aws-lambda-pricing-model-explained/)
 -   [Serverless Pricing and Costs](https://medium.com/@zackbloom/serverless-pricing-and-costs-aws-lambda-and-lambda-edge-169bfb58db75)
