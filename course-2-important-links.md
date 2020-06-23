@@ -1,30 +1,3 @@
-## Course: Design for Availability, Reliability, and Resiliency
-
--   [Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
--   [Case Studies](https://aws.amazon.com/solutions/case-studies/)
--   [AWS Reliability Pillar](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
--   [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)
--   [Network address translation](https://en.wikipedia.org/wiki/Network_address_translation)
--   [Redis](https://redis.io/)
--   [ElasticSearch](https://www.elastic.co/)
--   [MongoDB](https://www.mongodb.com/)
--   [DynamoDB Pricing Models](https://aws.amazon.com/dynamodb/pricing/)
--   [Amazon Prime Day 2019](https://aws.amazon.com/blogs/aws/amazon-prime-day-2019-powered-by-aws/)
--   [S3 Pricing](https://aws.amazon.com/s3/pricing/)
--   [WannaCry randsomware attack](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack)
--   [CloudFormation](https://aws.amazon.com/cloudformation/)
--   [Terraform](https://www.terraform.io/)
--   [High availability](https://en.wikipedia.org/wiki/High_availability)
--   [GitHub Post-incident analysis](https://github.blog/2018-10-30-oct21-post-incident-analysis/)
--   [Atlassian Incident Handbook](https://www.atlassian.com/incident-management/handbook/postmortems)
--   [AWS Services That Publish CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html)
--   [PagerDuty](https://www.pagerduty.com/)
--   [VictorOps](https://victorops.com/)
--   [Analyzing Log Data with CloudWatch Logs Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/AnalyzingLogData.html)
--   [Everything Fails All the Time](https://cacm.acm.org/magazines/2020/2/242334-everything-fails-all-the-time/fulltext)
--   [Principles of Chaos Engineering](http://principlesofchaos.org/)
--   [Chaos Monkey](https://github.com/Netflix/chaosmonkey)
-
 ## Course: Design for Performance and Scalability
 
 -   [AWS RDS](https://aws.amazon.com/rds/)
@@ -57,14 +30,9 @@
 -   [Real Savings Through Proper Cloud Setup](https://bluesentryit.com/gain-real-savings-proper-cloud-setup/)
 -   [AWS Tagging Strategies](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
 -   [AWS Tagging Best Practices](https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf)
--   []()
--   []()
--   []()
--   []()
--   []()
-
-#### Suggested Diagramming Applications
-
--   [LucidChart](https://www.lucidchart.com/)
--   [Creatly](https://creately.com/)
--   [Gliffy](https://www.gliffy.com/)
+-   [Understanding Amazon Relational Database Service](https://www.youtube.com/watch?v=eMzCI7S1P9M)
+-   [What is Hybrid Cloud](https://www.netapp.com/us/info/what-is-hybrid-cloud.aspx)
+-   [Gamifying AWS Cost Optimization](https://youtu.be/beN1m9AOsQ0)
+-   [Cost Optimization eBook](https://docs.aws.amazon.com/whitepapers/latest/cost-management/introduction.html)
+-   [Best Practices for AWS Auto Scaling Plans](https://www.botmetric.com/blog/aws-auto-scaling-top-11-hard-won-lessons-2/)
+-   [Tpo 11 Hard-Won Lessons We’ve Learned about AWS Autoscaling](https://docs.aws.amazon.com/autoscaling/plans/userguide/gs-best-practices.html)
