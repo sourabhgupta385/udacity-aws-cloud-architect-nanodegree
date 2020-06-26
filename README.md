@@ -5,3 +5,4 @@ This repository contains notes from Udacity AWS Cloud Architect Nanodegree progr
 ## Project Solutions
 
 -   [Recoverability in AWS Solution](https://github.com/sourabhgupta385/udacity-project-recoverability-in-aws)
+-   [Design, Provision and Monitor AWS Infrastructure at Scale Solution](https://github.com/sourabhgupta385/udacity-project-design-for-performance-and-scalability)
